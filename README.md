@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Building full‑stack web apps and an AI‑driven SkinCare platform, and polishing my GitHub portfolio for software development roles. <br>I’m looking to collaborate on Open‑source projects in Python, JavaScript/TypeScript, and Java, especially full‑stack, AI/ML, and blockchain‑based applications.<br>I’m looking for help with Landing remote or hybrid internships/junior roles where I can work on real‑world products, improve system design skills, and learn best practices in DevOps and cloud.<br>I’m currently learning Advanced Python patterns, data engineering and Spark concepts, and modern web development with React, Node.js, and Spring Boot.<br>Ask me about Turning ideas into end‑to‑end projects, building AI‑powered web apps, and using GitHub effectively for project organization and collaboration. <br>Fun fact I enjoy taking complex problems from college or internships and turning them into side projects that help others learn from my code.
+Java Full-Stack Developer & CS Grad | Building an AI SkinCare platform & web apps | Seeking Junior / Internship roles (Remote/Hybrid)
 
 
 ## 🌐 Socials:
