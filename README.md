@@ -1,5 +1,5 @@
 #  About Me:
-# Java Full-Stack Developer 
+# ** Java Full-Stack Developer **
 
 Passionate about building scalable web applications and intelligent AI-driven platforms. Skilled in Java, Spring Boot, React, and modern backend architectures. Actively seeking remote or hybrid software engineering roles to solve real-world problems, optimize system design, and contribute to high-impact engineering teams.
 
